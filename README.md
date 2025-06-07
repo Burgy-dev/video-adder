@@ -18,6 +18,7 @@ Hey guys. This repo contains video adders which is my work-around for the curren
 ## update_all_keyframes.py
 - This file will update all of the mods in the mods folder that it's outside of.
 - Same rules as above apply, other than the "Mod_Name" obviously.
+- Only difference is there is an exclude list at the top that you can add mods to that you have either already fixed, or mods that already had video blocks in the keyframes.cfg file.
 
 ## Error printing
 Both python scripts have pretty verbose error printing. Not all mods will have videos, and some mods don't have .ogv's and instead have .webm's or something. You'll need to convert these yourself, as the scripts look for .ogv files. Converters are easy to find.
