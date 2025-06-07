@@ -5,7 +5,7 @@ Hey guys. This repo contains video adders which is my work-around for the curren
 
 ## update_keyframes.py
 - This file can be used to update an individual mod. You must put this outside of your mods folder (so in the app_userdata folder).
-- However, all it looks for is a folder called "mods", so you could put it somewhere else to test it first (like on your desktop or something, in a structure like C:\users\you\Desktop\test\mods. In this case, you'd put it in the test folder).
+- However, all it looks for is a folder called "mods", so you could put it somewhere else to test it first (like on your desktop or something, in a structure like ~\Desktop\test\mods. In this case, you'd put it in the test folder).
 - To change which mod it's updating, just change the "Mod_Name" variable at the top to whatever mod you want to update. 
 
 ## update_all_keyframes.py
