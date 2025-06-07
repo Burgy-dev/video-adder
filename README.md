@@ -5,7 +5,7 @@ Hey guys. This repo contains video adders which is my work-around for the curren
   I RECOMMEND BACKING UP YOUR MODS FOLDER BEFORE DOING THIS. IF A FIX COMES OUT AND MAKES THIS OBSELETE, THEN THE CHANGES MAY HARM YOU INSTEAD OF HELP YOU.
 
 ### 🔔 Note
-  You need to have python installed for these to work. Should b pretty easy if you don't have it installed already.
+  You need to have python installed for these to work. Should be pretty easy if you don't have it installed already.
 
 ## update_keyframes.py
 - This file can be used to update an individual mod. You must put this outside of your mods folder (so in the app_userdata folder).
