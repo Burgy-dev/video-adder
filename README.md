@@ -8,7 +8,7 @@ Hey guys. This repo contains video adders which is my work-around for the curren
   You need to have python installed for these to work. Should be pretty easy if you don't have it installed already.
 
 ## check_for_video.py
-- This can be used to check if any of your mods already have a video block in your keyframes.cfg file. If it does, it'll print out the mod name. You'll want to exclude this by including it in the exclude list at the top of the update_all_keyframes.py file.
+- This can be used to check if any of your mods already have a video block in your keyframes.cfg file. If it does, it'll print out the mod name. You'll want to exclude those by including them in the exclude list at the top of the update_all_keyframes.py file.
 
 ## update_keyframes.py
 - This file can be used to update an individual mod. You must put this outside of your mods folder (so in the app_userdata folder).
